@@ -4,6 +4,7 @@ public class binary {
         int b = 1;
         int g;
 
+
         //iloczyn bitowy
         System.out.println(String.format("%32s", Integer.toBinaryString(a & b)).replace(' ','0'));
 
